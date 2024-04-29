@@ -50,7 +50,7 @@ social:
     link: 'mailto:muheng.li@psi.ch'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=XKGZhEcAAAAJ
+    link: https://scholar.google.com/citations?user=U3J4L6IAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/muheng-li-ba4094287

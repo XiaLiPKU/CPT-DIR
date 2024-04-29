@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} PSI-CPT. This project is supported by the interdisciplinary doctoral grant (iDoc 2021-360) from the Personalized Health and Related Technologies (PHRT) of the ETH domain, Switzerland'
+    notice: '© {year} PSI-CPT. This project is supported by the interdisciplinary doctoral grant ([iDoc 2021-360](https://www.sfa-phrt.ch/mr-based-synthetic-ct-generation-for-adaptive-proton-treatment-using-deep-learning/)) from the Personalized Health and Related Technologies (PHRT) of the ETH domain, Switzerland'
     license:
       enable: true
       allow_derivatives: false
