@@ -1,5 +1,5 @@
 ---
-title: Our submission is selected as a Oral presentation by ICCR 2024!
+title: Our submission is selected as an Oral presentation by ICCR 2024!
 date: 2024-03-15
 ---
 

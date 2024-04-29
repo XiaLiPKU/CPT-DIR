@@ -13,7 +13,7 @@ sections:
       address:
         street: Forschungsstrasse 111
         city: Villigen
-        region: Aarau
+        region: Aargau
         postcode: 5232
         country: Switzerland
         country_code: CH
