@@ -11,7 +11,7 @@ order: 3
 superuser: false
 
 # Role/position
-role: Prof.Dr.med.
+role: Prof. Dr. med.
 
 # Organizations/Affiliations
 organizations:
