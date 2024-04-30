@@ -13,10 +13,7 @@ sections:
         filename: intra32.gif
       text: |
         <br>
-        Advanced toolbox for deformable image registration in radiotherapy.
-        <br>
-        Used for intra-fractional motion estimation and inter-fractional anatomic changes
-        
+        Continues-sPatial-Temporal DIR (CPT-DIR) is an advanced toolbox for deformable image registration in radiotherapy. Used for intra-fractional motion estimation and inter-fractional anatomic changes.
   
   - block: collection
     content:

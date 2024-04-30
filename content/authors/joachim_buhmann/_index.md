@@ -46,6 +46,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=zQWbCzYAAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Joachim-Buhmann
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/joachim-buhmann-2245958
