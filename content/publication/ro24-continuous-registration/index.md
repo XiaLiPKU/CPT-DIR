@@ -1,11 +1,11 @@
 ---
-title: "An example journal article"
+title: "Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- xia_li
+- muheng_li
+- tony_lomax
+- joachim_buhmann
+- ye_zhang
 date: "2024-05-01T00:00:00Z"
 doi: ""
 
@@ -15,16 +15,16 @@ publishDate: "2024-05-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Arxiv"
+publication_short: "Arxiv 2024"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Background and purpose: Deformable image registration (DIR) is a crucial tool in radiotherapy for extracting and modelling organ motion. However, when significant changes and sliding boundaries are present, it faces compromised accuracy and uncertainty, determining the subsequential contour propagation and dose accumulation procedures. Materials and methods: We propose an implicit neural representation (INR)-based approach modelling motion continuously in both space and time, named Continues-sPatial-Temporal DIR (CPT-DIR). This method uses a multilayer perception (MLP) network to map 3D coordinate (x,y,z) to its corresponding velocity vector (vx,vy,vz). The displacement vectors (dx,dy,dz) are then calculated by integrating velocity vectors over time. The MLP's parameters can rapidly adapt to new cases without pre-training, enhancing optimisation. The DIR's performance was tested on the DIR-Lab dataset of 10 lung 4DCT cases, using metrics of landmark accuracy (TRE), contour conformity (Dice) and image similarity (MAE)." 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "In summary, the innovative CPT-DIR approach, integrating principles of INR and LDDMM, represents a11 significant departure from traditional voxel-based methods in DIR. By adopting a paradigm of continuous motion modelling, we transcend the limitations inherent in voxel-based representations, offering a more robust, automatic and versatile solution. Leveraging spatial continuity, we effectively handle the intricacies of sliding organ boundaries, while temporal continuity alleviates the complexities associated with significant anatomical changes over time. The tangible benefits are evident in its superior performance compared to classic B-splines methods. CPT-DIR consistently achieves better performance by all kinds of evaluation matrices. Additionally, the efficiency gains are substantial, with registration times slashed by more than half." 
 
 tags:
 - Source Themes
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://arxiv.org/pdf/2405.00430'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +54,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+  - continuous registration
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
