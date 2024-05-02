@@ -11,7 +11,7 @@ order: 3
 superuser: false
 
 # Role/position
-role: Prof.Dr.med.
+role: Prof. Dr. med.
 
 # Organizations/Affiliations
 organizations:
@@ -38,7 +38,7 @@ social:
     link: 'mailto:damien.weber@psi.ch'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=FC5zGu4AAAAJ
+    link: https://scholar.google.com/citations?user=NZz1l-YAAAAJ
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Damien-Weber

@@ -27,7 +27,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Supine to upright moving
+      - title: Large anatomic deformation caused by posture different (upright vs supine)
         content: 
         align: right
         background:
