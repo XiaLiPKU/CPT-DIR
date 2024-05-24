@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.psi.ch/en/protontherapy'
 
 # Short bio (displayed in user profile at end of posts)
-bio: sss
+bio: 
 
 interests:
   - Proton Therapy

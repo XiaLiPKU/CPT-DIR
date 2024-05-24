@@ -19,7 +19,7 @@ organizations:
     url: 'https://ml.inf.ethz.ch/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: sss
+bio: 
 
 interests:
   - Image registration
