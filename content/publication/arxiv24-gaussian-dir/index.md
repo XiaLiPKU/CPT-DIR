@@ -3,7 +3,7 @@ title: "Gaussian Representation for Deformable Image Registration"
 authors:
 - Jihe Li*
 - Fabian Zhang*
-- Xia Li
+- xia_li
 - Tianhao Zhang
 - ye_zhang
 - joachim_buhmann
